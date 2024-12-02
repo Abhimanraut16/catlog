@@ -12,7 +12,6 @@ function About() {
 
 
 
-
       <div className=" flex flex-col items-center gap-3 text-center mb-10 md:mb-20" data-aos="fade-up"
         data-aos-duration="3000">
         <h2 className='title'>About Us</h2>
@@ -28,7 +27,7 @@ function About() {
           <div className="w-full lg:w-1/2">
             <div className="space-y-5" data-aos="zoom-in-up">
               <h3>
-                Make your <span className='text-yellow-500'>Organic</span> <br /> garden
+                Make your <span className='text-green-500'>Organic</span> <br /> garden
               </h3>
               <p className='text-blue-950 font-Lobster' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat impedit eligendi natus magnam omnis, cumque earum? Dignissimos possimus ea porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis numquam ipsa exercitationem ea consequuntur possimus fugit repellat dolores, quaerat earum beatae amet voluptatibus sit quisquam corporis. Doloremque, rem animi..</p>
             </div>
@@ -40,7 +39,7 @@ function About() {
           <div className="w-full lg:w-1/2">
             <div className="space-y-5" data-aos="zoom-in-up">
               <h3>
-                Come with us <span className='text-yellow-500'>grow up</span> <br /> your plant
+                Come with us <span className='text-green-500'>grow up</span> <br /> your plant
               </h3>
               <p className='text-blue-950 font-Lobster'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat impedit eligendi natus magnam omnis, cumque earum? Dignissimos possimus ea porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum facilis numquam ipsa exercitationem ea consequuntur possimus fugit repellat dolores, quaerat earum beatae amet voluptatibus sit quisquam corporis. Doloremque, rem animi..</p>
             </div>

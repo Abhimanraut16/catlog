@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import 'remixicon/fonts/remixicon.css'
 import Navbar from '../app/navbar/page'
+import Footer from '../component/Footer/Footer'
 
 
 export const metadata: Metadata = {
@@ -17,8 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-      <Navbar />
+        <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );

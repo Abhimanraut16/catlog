@@ -22,10 +22,11 @@ function Popular() {
           <p className='italic'>Nephrolepis exaltata</p>
           <h3>Boston fern</h3>
 
-          <div className="text-yellow-500 text-xs py-3">
+          <div className="text-green-500 text-xs py-3">
             <i className='ri-star-fill' />
             <i className='ri-star-fill' />
             <i className='ri-star-half-fill' />
+            <i className='ri-star-line text-gray-400' />
             <i className='ri-star-line text-gray-400' />
             <i className='ri-star-line text-gray-400' />
           </div>
@@ -33,7 +34,7 @@ function Popular() {
 
           <div className="flex items-center justify-between">
             <p className='text-xl'>$5</p>
-            <button className='bg-yellow-500 px-2 rounded-sm text-xl'>
+            <button className='bg-green-500 px-2 rounded-sm text-xl'>
               <i className='ri-shopping-cart-fill' />
             </button>
 
@@ -46,7 +47,7 @@ function Popular() {
           <p className='italic'>Ficus elastice</p>
           <h3>Runner Planrt</h3>
 
-          <div className="text-yellow-500 text-xs py-3">
+          <div className="text-green-500 text-xs py-3">
             <i className='ri-star-fill' />
             <i className='ri-star-fill' />
             <i className='ri-star-half-fill' />
@@ -57,7 +58,7 @@ function Popular() {
 
           <div className="flex items-center justify-between">
             <p className='text-xl'>$5</p>
-            <button className='bg-yellow-500 px-2 rounded-sm text-xl'>
+            <button className='bg-green-500 px-2 rounded-sm text-xl'>
               <i className='ri-shopping-cart-fill' />
             </button>
 
@@ -71,7 +72,7 @@ function Popular() {
           <p className='italic'>Spathiphyllum wallisii</p>
           <h3>Peace Lily</h3>
 
-          <div className="text-yellow-500 text-xs py-3">
+          <div className="text-green-500 text-xs py-3">
             <i className='ri-star-fill' />
             <i className='ri-star-fill' />
             <i className='ri-star-half-fill' />
@@ -82,7 +83,7 @@ function Popular() {
 
           <div className="flex items-center justify-between">
             <p className='text-xl'>$5</p>
-            <button className='bg-yellow-500 px-2 rounded-sm text-xl'>
+            <button className='bg-green-500 px-2 rounded-sm text-xl'>
               <i className='ri-shopping-cart-fill' />
             </button>
 
@@ -95,7 +96,7 @@ function Popular() {
           <p className='italic'>Adenium Obesum</p>
           <h3>Desert Rose</h3>
 
-          <div className="text-yellow-500 text-xs py-3">
+          <div className="text-green-500 text-xs py-3">
             <i className='ri-star-fill' />
             <i className='ri-star-fill' />
             <i className='ri-star-half-fill' />
@@ -106,7 +107,7 @@ function Popular() {
 
           <div className="flex items-center justify-between">
             <p className='text-xl'>$5</p>
-            <button className='bg-yellow-500 px-2 rounded-sm text-xl'>
+            <button className='bg-green-500 px-2 rounded-sm text-xl'>
               <i className='ri-shopping-cart-fill' />
             </button>
 
