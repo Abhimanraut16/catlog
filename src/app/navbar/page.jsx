@@ -26,7 +26,7 @@ function Navbar() {
 
       <div className="flex  flex-col relative md:flex-row md:justify-start justify-center items-center my-1 p-3 shadow-md ">
         <Link href={'/'}>
-          <div className="logo mx-5 text-3xl font-bold" > .Root</div>
+          <div className="logo mx-5 text-3xl font-bold" > .catlog</div>
         </Link>
 
         <div className="nav ">
